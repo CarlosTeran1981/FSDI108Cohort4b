@@ -1,0 +1,24 @@
+.menu{
+    background-color: coral;
+    padding: 10px 20px;
+    margin-top: 0;
+    border: 1px solid gray;
+}
+
+.menu li{
+  display: inline-block;
+  width: 130px;
+  text-decoration: none;
+  cursor: pointer;
+  list-style-type: none;
+  padding: 5px;
+  
+  
+
+}
+
+.menu li:hover{
+    font-weight: bold;
+    color: blue;
+    text-decoration: underline;
+}
